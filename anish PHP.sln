@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "anish PHP", "..\..\..\..\..\Users\anish\source\repos\anish PHP\anish PHP\anish PHP.phpproj", "{FB95039D-3288-4834-9BA1-E8C1A47F35A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB95039D-3288-4834-9BA1-E8C1A47F35A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB95039D-3288-4834-9BA1-E8C1A47F35A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA70496-9E6F-4A06-BD2F-C1FDE627C8D6}
+	EndGlobalSection
+EndGlobal
